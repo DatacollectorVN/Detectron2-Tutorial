@@ -5,7 +5,7 @@ conda create -n detectron2 python=3.7
 conda activate detectron2
 ```
 
-2. Clone this repository
+2. Clone this repository and Clone the [https://github.com/facebookresearch/detectron2](detectron2 )repository
 
 3. Install required packages
 ```bash
