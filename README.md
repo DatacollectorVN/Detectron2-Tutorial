@@ -13,10 +13,10 @@ pip install -r requirements.txt
 ```
 
 4. Setup for detectron2
-`bash python -m pip install -e detectron2`
+`python -m pip install -e detectron2`
 
 5. Inference demo with Pre-trained models
-`bash cd detectron2/demo/`
+`cd detectron2/demo/`
 
 InstanceSegmentation - MASK-RCNN 
 ```bash 
