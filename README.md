@@ -25,5 +25,5 @@ python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50
 ```
 Keypoints - RCNN-ResNet50-FPN
 ```bash
-python demo.py --config-file ../configs/COCO-Keypoints/keypoint_rcnn_R_50_FPN_3x.yaml --input ../../imgs-test/Jisso.jpg --output ../../imgs-test/predicted_Jisso.jpg --opt MODEL.WEIGHTS detectron2://COCO-Keypoints/keypoint_rcnn_R_50_FPN_3x/137849621/model_final_a6e10b.pkl
+python demo.py --config-file ../configs/COCO-Keypoints/keypoint_rcnn_R_50_FPN_3x.yaml --input ../../imgs-test/BlackPink.jpg --output ../../imgs-test/predicted_1_BlackPink.jpg --opt MODEL.WEIGHTS detectron2://COCO-Keypoints/keypoint_rcnn_R_50_FPN_3x/137849621/model_final_a6e10b.pkl
 ```
